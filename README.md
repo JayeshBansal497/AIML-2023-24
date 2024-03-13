@@ -7,3 +7,4 @@ AIML Lab
 5. [Lab 5:Implement Logistic Regression](https://github.com/JayeshBansal497/AIML-2023-24/blob/main/Lab_5.ipynb)
 6. [Lab 6:K-nearest neighbor classification](https://github.com/JayeshBansal497/AIML-2023-24/blob/main/Lab_6.ipynb)
 7. [Lab 7:Implement Support Vector Machine](https://github.com/JayeshBansal497/AIML-2023-24/blob/main/Lab_7.ipynb)
+8. [Lab 8:Decision Tree](https://github.com/JayeshBansal497/AIML-2023-24/blob/main/Lab_08.ipynb)
